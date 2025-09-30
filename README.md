@@ -42,13 +42,21 @@ Apaixonado por programação, dados e novas tecnologias. Sempre buscando aprende
 ---
 
 ## 📫 Contato
-
-<div align="center">
-  <a href="mailto:henriquemataalb34@gmail.com"><img src="https://img.shields.io/badge/📧 Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/henrique-albuquerque-ba818126a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/🔗 LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/damatacodes?igsh=NXNsOXZ0Mnd2d2Z5"><img src="https://img.shields.io/badge/📸 Instagram-000?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram"/></a>
-  <a href="https://wa.me/5511995413253"><img src="https://img.shields.io/badge/💬 WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/></a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="mailto:henriquemataalb34@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-albuquerque-ba818126a">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/damatacodes">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
+  </a>
+  <a href="https://wa.me/5511995413253">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
+  </a>
 </div>
+
 
 ---
 
