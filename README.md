@@ -75,4 +75,9 @@ Apaixonado por programação, dados e novas tecnologias. Sempre buscando aprende
   <img src="https://c.tenor.com/8NvXKH2KzKIAAAAC/3d-rotate.gif" alt="3D Tech" width="300"/>
 </div>
 
+## 📊 Contribuições em LEGO
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green.svg" alt="Contribuições 3D" />
+</p>
+
 ✨ Obrigado por visitar meu perfil! Explore meus projetos e conecte-se comigo para colaborações.
