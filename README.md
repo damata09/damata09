@@ -28,10 +28,11 @@ Apaixonado por programação, dados e novas tecnologias. Sempre buscando aprende
   <h3>💻 Node.js HandleBars</h3>
   <p>Projeto fullstack utilizando Node.js, Express e Handlebars. Inclui rotas, templates e persistência de dados.</p>
   <a href="https://github.com/damata09/projetoNode-handlebars" style="text-decoration:none; color:#00ffff;">Ver no GitHub</a>
-  <div style="margin-top:10px;">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Handlebars-E34F26?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" alt="Handlebars"/>
-  </div>
+  <div align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" width="40"/>
+</div>
+
 </div>
 
 <div style="border-radius:15px; background:#1e1e2f; padding:20px; width:280px; text-align:center; box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.3s;">
