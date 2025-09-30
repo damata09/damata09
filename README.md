@@ -8,17 +8,17 @@ Apaixonado por programação, dados e novas tecnologias. Sempre buscando aprende
 
 ## 🛠 Tecnologias que uso
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=microsoft-power-bi&logoColor=F2C811" alt="Power BI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/></a>
+<div style="display: flex; gap: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </div>
+
 
 ---
 
