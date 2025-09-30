@@ -37,16 +37,7 @@ Apaixonado por programação, dados e novas tecnologias. Sempre buscando aprende
 </div>
 
 <div style="border-radius:15px; background:#1e1e2f; padding:20px; width:280px; text-align:center; box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.3s;">
-  <h3>🌐 Portfólio Pessoal</h3>
-  <p>Meu portfólio pessoal com projetos e experiências, utilizando HTML, CSS, JavaScript e integração com GitHub.</p>
-  <a href="https://github.com/damata09" style="text-decoration:none; color:#00ffff;">Ver no GitHub</a>
-  <div style="margin-top:10px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </div>
-</div>
-
+ 
 </div>
 
 ---
