@@ -62,10 +62,10 @@ Apaixonado por programação, dados e novas tecnologias. Sempre buscando aprende
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damata09&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damata09&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=damata09&theme=dracula&area=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=damata09&layout=pie&theme=dracula&hide_border=true)
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=damata09&theme=dracula&hide_border=true)
+
 
 ---
 
